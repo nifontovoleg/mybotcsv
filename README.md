@@ -83,6 +83,15 @@ mybotcsv/
         └── main_menu.py        # reply и inline-клавиатуры
 ```
 
+##  Пример (скриншоты):
+
+<img width="554" height="759" alt="Снимок экрана 2026-06-30 232556" src="https://github.com/user-attachments/assets/dacd3c8d-0019-4b85-88f7-ed8269e07b8b" />
+
+<img width="526" height="736" alt="Снимок экрана 2026-06-30 232709" src="https://github.com/user-attachments/assets/c996ca35-53e8-4517-96d2-ed9df536b09e" />
+
+
+
+
 ## Installation
 
 1. Склонируйте репозиторий:
