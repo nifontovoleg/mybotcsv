@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+.venv/
+
+.env
+app/.env
+app/keyboards/.env
+
+tasks.db
+*.db
+
+.idea/
+.vscode/
